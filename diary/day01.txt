@@ -1,0 +1,6 @@
+I set up my coding environment with vim & tmux.
+I am kind of wondering what to actually make with my skill.
+Making advanced lane detection might be a good choice but it will 
+take a lot of time.
+
+Will see.
